@@ -1,2 +1,1 @@
-# Testapp-SRVKP-4212
-Testapp for a bug report against the Openshift pipelines UI
+Testapp-InstrumentedPing - I use this to demonstrate prometheus instrumentation
