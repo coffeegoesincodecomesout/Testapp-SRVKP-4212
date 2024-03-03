@@ -1,1 +1,1 @@
-Testapp-InstrumentedPing - I use this to demonstrate prometheus instrumentation
+Testapp-InstrumentedPing - For a bug raised against the Openshift pipelines UI
